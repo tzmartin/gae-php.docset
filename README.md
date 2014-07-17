@@ -10,6 +10,12 @@ This is manually generated from [https://code.google.com/p/googleappengine/sourc
  * Author: [TZ Martin](https://tzmartin.com) @tzmartin on [Twitter](//twitter.com/tzmartin) [Github](//github.com/tzmartin/)
  * Docset repository: [https://github.com/tzmartin/gae-php.docset](https://github.com/tzmartin/gae-php.docset)
 
+## Usage
+
+Download the repository and doubleclick the GAE-PHP.docset. The docset file should be installed into Dash and be ready to use.
+
+![GAE PHP Docset](https://monosnap.com/image/BhH9mAP7bf0k5xlHZVeeyww6wLA7rp.png)
+
 ## License
 
 The MIT License (MIT)
