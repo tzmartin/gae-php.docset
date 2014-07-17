@@ -12,7 +12,9 @@ This is manually generated from [https://code.google.com/p/googleappengine/sourc
 
 ## Usage
 
-Download the repository and doubleclick the GAE-PHP.docset. The docset file should be installed into Dash and be ready to use.
+Download the [repository zip](https://github.com/tzmartin/gae-php.docset/archive/master.zip) and doubleclick the ```gae-php.docset```. The docset file should be installed into Dash and be ready to use.
+
+![GAE PHP Docset](https://monosnap.com/image/ID0zntpbWhnwvhmCH3BGmveBWeWpb3.png)
 
 ![GAE PHP Docset](https://monosnap.com/image/BhH9mAP7bf0k5xlHZVeeyww6wLA7rp.png)
 
